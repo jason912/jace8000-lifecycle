@@ -2,7 +2,16 @@
 
 > **最后核对：2026-11-18。** 所有日期引自 Tridium 公布的 FAQ 原文，出处见文末。
 
-**相关文档：** [Niagara IoT —— 架构、选型与生命周期指南](../README.zh-CN.md) · Related: [Niagara IoT architecture and sizing guide](../README.md)
+---
+
+## 文档导航
+
+| 文档 | 中文 | English |
+|---|---|---|
+| **Niagara IoT** —— 架构、硬件、点数选型、订货信息 | [中文版](../README.zh-CN.md) | [English](../README.md) |
+| **JACE-8000 与 Niagara 4** —— 生命周期、停产时间线、迁移 | **当前页** | [English](jace-8000-lifecycle.md) |
+
+两篇同步维护。本篇讲 8000 / 9000 这一档的生命周期与迁移；Niagara IoT 那篇讲小站点控制器。
 
 ---
 
