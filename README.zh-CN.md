@@ -14,7 +14,7 @@
 
 两篇同步维护。Niagara IoT 这篇讲小站点控制器；JACE-8000 那篇讲 8000 / 9000 这一档的生命周期与迁移。
 
-产品页：**[glinenet.com.cn/NiagaraProduct.html](https://www.glinenet.com.cn/NiagaraProduct.html)**
+数据表（PDF）：**[Niagara_IoT_Datasheets-CN_26.6.1.pdf](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheets-CN_26.6.1.pdf)**
 
 ---
 

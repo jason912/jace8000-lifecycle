@@ -14,7 +14,7 @@
 
 Both guides are maintained together. The Niagara IoT guide covers the small-site controller; the JACE-8000 guide covers the lifecycle and migration picture for the 8000/9000 class.
 
-Product page: **[glinenet.com.cn/en/NiagaraProduct.html](https://www.glinenet.com.cn/en/NiagaraProduct.html)**
+Datasheet (PDF): **[Niagara_IoT_Datasheet_EN_translated.pdf](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheet_EN_translated.pdf)**
 
 ---
 
