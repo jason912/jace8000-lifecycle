@@ -94,6 +94,18 @@ For planning purposes, treat them the same way you treat any N4 controller:
 
 If you are choosing between a small-site controller and a JACE-9000, the deciding question is not capacity but **planning horizon**: a controller that must carry a site into the 2030s needs an N5 path; a controller serving a site that will be re-engineered before 2028 does not.
 
+### How small-site capacity is sized
+
+Small-site models in this class are generally offered **against a total point count** rather than a device count, with capacity stepping in fixed increments — a common pattern is an entry tier around 100 points, then +50 point steps.
+
+Practical implications:
+
+- **Budget by points, not by devices.** Because the tier is defined by total points, the number of integrated devices is not the constraint — the point total is.
+- **Count points on the Niagara licence basis**, not the physical I/O count. Every monitored value and every writable command typically consumes points, and trend/history logging can add further capacity pressure. Leave headroom (15–20% is a reasonable rule of thumb) so a later sensor or setpoint does not force a tier change.
+- **Above the top small-site tier, quote a standard JACE.** Once the point count exceeds the small-site band, the economics move to a JACE-8000/9000 conversation.
+
+> ⚠️ **Sizing shown here is indicative only.** Point tiers, increments, included capacity and any device-related terms are set by Tridium and may differ by region and by order. **Confirm the current structure and terms with Tridium or your distributor before any purchase decision.** Delivery under this programme is **China only**.
+
 *Configuration details, availability and commercial terms for specific small-site models are available on request.*
 
 ---
