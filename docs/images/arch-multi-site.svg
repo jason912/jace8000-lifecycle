@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 400" width="940" height="400" role="img" aria-label="Niagara IoT distributed multi-site architecture diagram">
+  <rect width="940" height="400" fill="#ffffff"/>
+  <defs>
+    <marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/>
+    </marker>
+  </defs>
+
+  <text x="30" y="42" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#0f172a">Distributed multi-site architecture</text>
+  <text x="30" y="66" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#64748b">分布式多站点架构 · 每个站点独立运行，集中管理与可视化</text>
+
+  <!-- supervisor -->
+  <rect x="330" y="92" width="280" height="76" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="470" y="122" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#1e3a8a">Supervisor / Cloud platform</text>
+  <text x="470" y="145" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#3b82f6">监控服务器 / 云平台 · 集中式设备集群可视性</text>
+
+  <!-- three sites -->
+  <rect x="45" y="238" width="250" height="112" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="170" y="266" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f172a">Site A</text>
+  <text x="170" y="288" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Niagara IoT</text>
+  <text x="170" y="310" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#64748b">+ site devices</text>
+  <text x="170" y="332" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11.5" fill="#059669">runs standalone</text>
+
+  <rect x="345" y="238" width="250" height="112" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="470" y="266" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f172a">Site B</text>
+  <text x="470" y="288" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Niagara IoT</text>
+  <text x="470" y="310" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#64748b">+ site devices</text>
+  <text x="470" y="332" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11.5" fill="#059669">runs standalone</text>
+
+  <rect x="645" y="238" width="250" height="112" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="770" y="266" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0f172a">Site C</text>
+  <text x="770" y="288" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Niagara IoT</text>
+  <text x="770" y="310" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#64748b">+ site devices</text>
+  <text x="770" y="332" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11.5" fill="#059669">runs standalone</text>
+
+  <!-- links up -->
+  <path d="M 170 232 C 170 190, 380 190, 440 172" fill="none" stroke="#475569" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#a2)"/>
+  <line x1="470" y1="232" x2="470" y2="176" stroke="#475569" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#a2)"/>
+  <path d="M 770 232 C 770 190, 560 190, 500 172" fill="none" stroke="#475569" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#a2)"/>
+
+  <text x="30" y="380" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#64748b">Each site keeps full local control if the link to the supervisor is lost — 跨站点标准化边缘智能，分布式控制执行。</text>
+</svg>
