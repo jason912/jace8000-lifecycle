@@ -93,7 +93,7 @@ Two things to take from this:
 
 ## 3. Smaller sites: what to consider
 
-Tridium's small-site portfolio runs on Niagara 4 as well, including the China-market **JACE IoT**.
+Tridium's small-site portfolio runs on Niagara 4 as well, including the China-market **Niagara IoT**.
 
 For planning purposes, treat them the same way you treat any N4 controller:
 
@@ -170,7 +170,7 @@ Tridium's position: portability partners set their own eligibility and timing. A
 **Should I buy now or wait for Niagara 5?**
 Depends on the project. If it must be delivered and commissioned before 2027 and the design is already N4, buy within the window. If it is a new design with a 10-year horizon, design for N5 and specify JACE-9000.
 
-**What about small-site controllers like JACE IoT?**
+**What about small-site controllers like Niagara IoT?**
 They run Niagara 4 and are planned against the N4 End of Life date of Q3 2028. N5 migration is a JACE-9000 and Supervisor conversation. For sizing and commercial terms, confirm with Tridium or your distributor.
 
 ---
@@ -188,11 +188,11 @@ They run Niagara 4 and are planned against the N4 End of Life date of Q3 2028. N
 **Shanghai Gline Net Co., Ltd. (GLINENET)** — Tridium partner since 2014.
 
 - JACE-8000 / JACE-9000 supply and spare-parts planning
-- **JACE IoT** supply, point-count sizing and stock planning — position JACE IoT in the right project, at the right point tier, with availability confirmed before you commit
+- **Niagara IoT** supply, point-count sizing and stock planning — position Niagara IoT in the right project, at the right point tier, with availability confirmed before you commit
 - Niagara 4 station engineering, migration assessment, remote operations
 - Email: **jason.zhang@gline-net.com**
 
-*If you are planning 8000-class replacement or expansion in Asia Pacific, ask before the 2026-12-31 order deadline. For small-site **JACE IoT** selection and stock planning, we hold availability into 2027 — get in touch and we will size it to your project. Sales policy and product terms are set by Tridium — confirm before any purchase decision.*
+*If you are planning 8000-class replacement or expansion in Asia Pacific, ask before the 2026-12-31 order deadline. For small-site **Niagara IoT** selection and stock planning, we hold availability into 2027 — get in touch and we will size it to your project. Sales policy and product terms are set by Tridium — confirm before any purchase decision.*
 
 ---
 
