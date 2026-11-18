@@ -183,7 +183,7 @@ They run Niagara 4 and are planned against the N4 End of Life date of Q3 2028. N
 - Niagara 4 station engineering, migration assessment, remote operations
 - Email: **jason.zhang@gline-net.com**
 
-*If you are planning 8000-class replacement or expansion in Asia Pacific, or sizing a small-site JACE IoT deployment, ask before the 2026-12-31 order deadline. Sales policy and product terms are set by Tridium — confirm before any purchase decision.*
+*If you are planning 8000-class replacement or expansion in Asia Pacific, ask before the 2026-12-31 order deadline. For small-site **JACE IoT** selection and stock planning, we hold availability into 2027 — get in touch and we will size it to your project. Sales policy and product terms are set by Tridium — confirm before any purchase decision.*
 
 ---
 
