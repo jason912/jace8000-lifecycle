@@ -89,7 +89,7 @@ Tridium's small-site and edge portfolio runs on Niagara 4 as well, including the
 For planning purposes, treat them the same way you treat any N4 controller:
 
 - They are covered by the **Niagara 4 End of Life date of Q3 2028** for software updates
-- They do **not** have a Niagara 5 upgrade path — N5 migration is a JACE-9000 and Supervisor conversation
+- Plan them against the **Niagara 4 lifecycle** — N5 migration is a JACE-9000 and Supervisor conversation
 - Sizing, licensing and commercial terms differ by model and by region — **confirm with Tridium or your distributor before you specify**
 
 If you are choosing between a small-site controller and a JACE-9000, the deciding question is not capacity but **planning horizon**: a controller that must carry a site into the 2030s needs an N5 path; a controller serving a site that will be re-engineered before 2028 does not.
@@ -162,7 +162,7 @@ Tridium's position: portability partners set their own eligibility and timing. A
 Depends on the project. If it must be delivered and commissioned before 2027 and the design is already N4, buy within the window. If it is a new design with a 10-year horizon, design for N5 and specify JACE-9000.
 
 **What about small-site controllers like Edge 10 or JACE IoT?**
-They run Niagara 4 and share the N4 End of Life date of Q3 2028. They do not have an N5 upgrade path. For sizing and commercial terms, confirm with Tridium or your distributor.
+They run Niagara 4 and are planned against the N4 End of Life date of Q3 2028. N5 migration is a JACE-9000 and Supervisor conversation. For sizing and commercial terms, confirm with Tridium or your distributor.
 
 ---
 
