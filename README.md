@@ -1,8 +1,6 @@
 # Niagara IoT — Architecture, Sizing and Lifecycle Guide
 
-> **Last verified: 18 November 2026.** Architecture and specifications are summarised from Tridium's published Niagara IoT datasheet (March 2026). Lifecycle dates are quoted from Tridium-published FAQ material. The diagrams below are our own illustration of the architecture patterns described in that documentation — no Tridium artwork is reproduced.
->
-> 本文最后核对：2026-11-18。架构与规格摘要自 Tridium 公布的 Niagara IoT 数据手册（2026 年 3 月），生命周期日期引自 Tridium 公布的 FAQ。文中架构图为**我方自绘**，未转载 Tridium 任何原文图稿。
+> Last verified 2026-11-18. Diagrams are ours.
 
 ---
 

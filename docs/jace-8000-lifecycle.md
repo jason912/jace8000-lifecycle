@@ -1,8 +1,6 @@
 # JACE-8000 & Niagara 4 — Lifecycle, End-of-Life and Migration Guide
 
-> **Last verified: 18 November 2026.** Dates below are quoted from Tridium-published FAQ material (sources at the end).
->
-> 本指南最后核对日期：2026-11-18。所有日期均引自 Tridium 公布的 FAQ 原文，出处见文末。
+> Last verified 2026-11-18. Sources at the end.
 
 ---
 
