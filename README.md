@@ -10,8 +10,11 @@
 |---|---|---|
 | **Niagara IoT** — architecture, hardware, point tiers, ordering | **you are here** | [中文版](README.zh-CN.md) |
 | **JACE-8000 & Niagara 4** — lifecycle, EOL dates, migration | [English](docs/jace-8000-lifecycle.md) | [中文版](docs/jace-8000-lifecycle.zh-CN.md) |
+| **Niagara IoT datasheet** — official spec sheet (PDF) | [PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheet_EN_translated.pdf) | [PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheets-CN_26.6.1.pdf) |
 
 Both guides are maintained together. The Niagara IoT guide covers the small-site controller; the JACE-8000 guide covers the lifecycle and migration picture for the 8000/9000 class.
+
+Product page: **[glinenet.com.cn/en/NiagaraProduct.html](https://www.glinenet.com.cn/en/NiagaraProduct.html)**
 
 ---
 
@@ -220,7 +223,7 @@ Yes. Tridium has confirmed SMA purchase remains available for N4 JACEs and Super
 - Niagara 4 station engineering, migration assessment, remote operations
 - Email: **jason.zhang@gline-net.com**
 
-*If you are planning 8000-class replacement or expansion in Asia Pacific, ask before the **2026-12-31** order deadline. For Niagara IoT selection and stock planning, **we hold availability into 2027** — get in touch and we will size it to your project. Sales policy and product terms are set by Tridium — confirm before any purchase decision.*
+*If you are planning 8000-class replacement or expansion in Asia Pacific, ask before the **2026-12-31** order deadline. For Niagara IoT selection and stock planning, **we hold availability into 2027** ([datasheet PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheet_EN_translated.pdf)) — get in touch and we will size it to your project. Sales policy and product terms are set by Tridium — confirm before any purchase decision.*
 
 ---
 

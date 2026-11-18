@@ -10,8 +10,11 @@
 |---|---|---|
 | **Niagara IoT** —— 架构、硬件、点数选型、订货信息 | **当前页** | [English](README.md) |
 | **JACE-8000 与 Niagara 4** —— 生命周期、停产时间线、迁移 | [中文版](docs/jace-8000-lifecycle.zh-CN.md) | [English](docs/jace-8000-lifecycle.md) |
+| **Niagara IoT 数据表** —— 官方规格书（PDF） | [PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheets-CN_26.6.1.pdf) | [PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheet_EN_translated.pdf) |
 
 两篇同步维护。Niagara IoT 这篇讲小站点控制器；JACE-8000 那篇讲 8000 / 9000 这一档的生命周期与迁移。
+
+产品页：**[glinenet.com.cn/NiagaraProduct.html](https://www.glinenet.com.cn/NiagaraProduct.html)**
 
 ---
 
@@ -220,7 +223,7 @@ Niagara IoT 跑在 **Niagara 4** 框架上，按 **N4 于 2028 Q3 结束生命�
 - Niagara 4 站点工程、迁移评估、远程运维
 - 邮箱：**jason.zhang@gline-net.com**
 
-*若您在亚太区规划 8000 级别的替换或扩容，请在 2026-12-31 下单截止前联系我们。Niagara IoT 的选型与备货，我们可供应至 2027 年，欢迎提前沟通、按项目配档。销售政策与产品条款以 Tridium 为准，购买前请先确认。*
+*若您在亚太区规划 8000 级别的替换或扩容，请在 2026-12-31 下单截止前联系我们。Niagara IoT 的选型与备货，我们可供应至 2027 年（[数据表 PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheets-CN_26.6.1.pdf)），欢迎提前沟通、按项目配档。销售政策与产品条款以 Tridium 为准，购买前请先确认。*
 
 ---
 
