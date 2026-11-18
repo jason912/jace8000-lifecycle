@@ -10,7 +10,7 @@
 |---|---|---|
 | **Niagara IoT** —— 架构、硬件、点数选型、订货信息 | **当前页** | [English](README.md) |
 | **JACE-8000 与 Niagara 4** —— 生命周期、停产时间线、迁移 | [中文版](docs/jace-8000-lifecycle.zh-CN.md) | [English](docs/jace-8000-lifecycle.md) |
-| **Niagara IoT 数据表** —— 官方规格书（PDF） | [PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheets-CN_26.6.1.pdf) | [PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheet_EN_translated.pdf) |
+| **Niagara IoT 数据表** —— 官方规格书（PDF） | [**打开 PDF**](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheets-CN_26.6.1.pdf) | [**Open PDF**](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheet_EN_translated.pdf) |
 
 两篇同步维护。Niagara IoT 这篇讲小站点控制器；JACE-8000 那篇讲 8000 / 9000 这一档的生命周期与迁移。
 

@@ -10,7 +10,7 @@
 |---|---|---|
 | **Niagara IoT** — architecture, hardware, point tiers, ordering | **you are here** | [中文版](README.zh-CN.md) |
 | **JACE-8000 & Niagara 4** — lifecycle, EOL dates, migration | [English](docs/jace-8000-lifecycle.md) | [中文版](docs/jace-8000-lifecycle.zh-CN.md) |
-| **Niagara IoT datasheet** — official spec sheet (PDF) | [PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheet_EN_translated.pdf) | [PDF](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheets-CN_26.6.1.pdf) |
+| **Niagara IoT datasheet** — official spec sheet (PDF) | [**Open PDF**](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheet_EN_translated.pdf) | [**Open PDF**](https://www.glinenet.com.cn/pdf/Niagara_IoT_Datasheets-CN_26.6.1.pdf) |
 
 Both guides are maintained together. The Niagara IoT guide covers the small-site controller; the JACE-8000 guide covers the lifecycle and migration picture for the 8000/9000 class.
 
